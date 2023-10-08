@@ -16,3 +16,8 @@ Navigation: Users can select an item in the table view, which navigates them to 
 Detailed View: The second view controller displays comprehensive details of the selected item, offering a closer look at the data.
 
 Clean and Intuitive User Interface: The app is designed with a clean and user-friendly interface for a seamless experience.
+
+ScreenShot -> 
+
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-10-08 at 00 33 36](https://github.com/pratikbm42/SimpleApiDataFetching/assets/146938244/1912cc22-b6a3-40ea-928c-0ae91d6432e9)
